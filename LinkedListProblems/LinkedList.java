@@ -9,7 +9,7 @@ package LinkedListProblems;
  *
  * @author sonu
  */
-public class LinkedList {
+class LinkedList {
     Node head;
     int size = 0;
     void addToHead(int d) {
